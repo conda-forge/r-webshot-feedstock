@@ -1,4 +1,4 @@
-{% set version = "0.5.3" %}
+{% set version = "0.5.4" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/webshot_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/webshot/webshot_{{ version }}.tar.gz
-  sha256: b7c4f2be61c8c4730202a9c3604072478e30cb85b423b7497cd703cc3f49dbc0
+  sha256: 3dc2b9baef7855e1deea060276b9ccc6375eee36b7100987cbb1f8e5cd7a8f24
 
 build:
   noarch: generic

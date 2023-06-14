@@ -1,11 +1,11 @@
-About r-webshot
-===============
+About r-webshot-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-webshot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/wch/webshot/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-webshot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Takes screenshots of web pages, including Shiny applications and R Markdown documents.
 
